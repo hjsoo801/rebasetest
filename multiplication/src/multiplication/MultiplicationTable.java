@@ -6,7 +6,7 @@ public class MultiplicationTable {
 
 	static void level2 () {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("plz enter the number : ");
+		System.out.println("plz enter the number what ypu want : ");
 		int j = sc.nextInt();
 		
 		for(int i = 1; i<=10; i++) {
